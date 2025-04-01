@@ -6,7 +6,7 @@ frontend/dist/
 backend/node_modules/
 
 # === Archivos de entorno ===
-*.env
+*backend/.env
 *.env.local
 
 # === Logs ===
