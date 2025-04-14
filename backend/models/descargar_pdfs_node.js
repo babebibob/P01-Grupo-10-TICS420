@@ -2,8 +2,38 @@ const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
 
-const pageUrl = "https://www.diariooficial.interior.gob.cl/edicionelectronica/empresas_cooperativas.php?date=02-04-2025&edition=44115";
 const carpetaDestino = path.join(__dirname, "pdfs");
+
+function formatearFecha(fecha) {
+  const dia = String(fecha.getDate()).padStart(2, '0');
+  const mes = String(fecha.getMonth() + 1).padStart(2, '0');
+  const anio = fecha.getFullYear();
+  return `${dia}-${mes}-${anio}`;
+}
+
+function contarDiasSinDomingos(desde, hasta) {
+  let count = 0;
+  let actual = new Date(desde);
+  while (actual <= hasta) {
+    if (actual.getDay() !== 0) count++; // no contar domingos
+    actual.setDate(actual.getDate() + 1);
+  }
+  return count;
+}
+
+function generarURLDelDia() {
+  const fechaHoy = new Date();
+  const fechaBase = new Date("2025-04-02");
+  const edicionBase = 44115;
+
+  const dias = contarDiasSinDomingos(fechaBase, fechaHoy);
+  const edicion = edicionBase + (dias - 1); // se incluye el día base
+  const fechaFormateada = formatearFecha(fechaHoy);
+
+  return `https://www.diariooficial.interior.gob.cl/edicionelectronica/empresas_cooperativas.php?date=${fechaFormateada}&edition=${edicion}`;
+}
+
+const pageUrl = generarURLDelDia();
 
 const archivos = fs.readdirSync(carpetaDestino);
 archivos.forEach((archivo) => {
@@ -18,31 +48,27 @@ async function obtenerHTML(url) {
 }
 
 function limpiarURL(url) {
-  // Detecta el patrón "https://...http://..." y lo corrige
   const dobleProtocolo = url.match(/https:\/\/.*http:\/\/.*/);
   if (dobleProtocolo) {
-    const cortado = url.split("http://").pop(); // Solo nos interesa lo que sigue después del segundo protocolo
+    const cortado = url.split("http://").pop();
     return "http://" + cortado;
   }
 
-  // Detecta "https://...http//..." (sin ':') y lo corrige
   const malSeparado = url.match(/https:\/\/.*http\/\/.*/);
   if (malSeparado) {
     const cortado = url.split("http//").pop();
     return "http://" + cortado;
   }
 
-  // Si es una ruta relativa, la completamos
   if (url.startsWith("/publicaciones")) {
     return "https://www.diariooficial.interior.gob.cl" + url;
   }
 
-  // Si empieza con // lo completamos con https
   if (url.startsWith("//")) {
     return "https:" + url;
   }
 
-  return url; // Si ya está limpia, la dejamos
+  return url;
 }
 
 function extraerPDFs(html) {
