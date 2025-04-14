@@ -15,34 +15,64 @@ function limpiarTexto(texto) {
     .trim();
 }
 
-function buscarCampo(texto, patron, nombreCampo) {
-  const match = texto.match(patron);
-  if (match) return match[1].trim();
+function buscarCampoMultiple(texto, patrones, nombreCampo) {
+  for (const patron of patrones) {
+    const match = texto.match(patron);
+    if (match) return match[1].trim();
+  }
   console.warn(`⚠️ ${nombreCampo} no encontrado.`);
   return null;
+}
+
+function detectarTipoEvento(texto) {
+  if (/constituy[eo]n/i.test(texto)) return "Constitución";
+  if (/disolver|disoluci[óo]n|terminar/i.test(texto)) return "Disolución";
+  if (/modificaci[óo]n|modificar|refund/i.test(texto)) return "Modificación";
+  if (/divisi[óo]n/i.test(texto)) return "División";
+  if (/saneamiento|sanear/i.test(texto)) return "Saneamiento";
+  return "Otro";
+}
+
+function esRutValido(rut) {
+  return /^\d{7,8}-[\dkK]$/.test(rut);
 }
 
 function extraerDatos(texto) {
   const datos = {};
   const limpio = limpiarTexto(texto);
 
-  datos.razon_social = buscarCampo(limpio, /denominada\s+“([^”]+)”/, "Razón Social") ||
-                      buscarCampo(limpio, /Nombre:\s*“([^”]+)”/, "Razón Social");
+  datos.tipo_evento = detectarTipoEvento(limpio);
 
-  datos.nombre_fantasia = buscarCampo(limpio, /nombre de fantas[ií]a\s+“([^”]+)”/, "Nombre Fantasía");
+  datos.razon_social = buscarCampoMultiple(limpio, [
+    /(?:sociedad|sociedad denominada|modifican la sociedad denominada|denominada|transforman la sociedad denominada)\s+“?([A-Z\s\-\.\&]+(?:SpA|LIMITADA|E\.I\.R\.L\.|LTDA|S\.A\.))”?/i,
+    /nombre de la sociedad.*?es\s+“([^”]+)”/i
+  ], "Razón Social");
 
-  datos.capital = buscarCampo(limpio, /Capital(?:\s+Social)?:?\s*\$?([\d\.\s]+)\s*(mill[oó]n|mil|pesos)/i, "Capital Social");
+  datos.nombre_fantasia = buscarCampoMultiple(limpio, [
+    /nombre de fantas[ií]a[:\s]*“?([^”"]{3,60})”?/i,
+    /pudiendo usar(?: como nombre de fantas[ií]a)?[:\s]*“?([^”"]{3,60})”?/i
+  ], "Nombre Fantasía");
 
-  datos.objeto = buscarCampo(limpio, /Objeto:\s*(.*?)\s*(?:Capital|Administraci[oó]n|Duraci[oó]n)/, "Objeto Social");
+  datos.capital = buscarCampoMultiple(limpio, [
+    /capital(?: social)?(?: es|:)\s*(?:la suma de\s*)?\$?\s*([\d\.]{3,})/i,
+    /CAPITAL:\s*([\d\.]{3,})/i
+  ], "Capital Social");
 
-  const rutMatch = limpio.match(/RUT\s*N?[\.:]?\s*(\d{7,8}-[\dkK])/);
-  if (rutMatch) datos.rut = rutMatch[1]; else console.warn("⚠️ RUT no encontrado.");
+  datos.objeto = buscarCampoMultiple(limpio, [
+    /(?:objeto social|objeto)[:\s]*(.*?)(?=domicilio|administraci[oó]n|capital|duraci[oó]n|vigencia|representaci[oó]n)/i
+  ], "Objeto Social");
 
-  const socios = [...limpio.matchAll(/(?:compareci[oó]|suscribe)[^\.,;:\n]*([A-Z\u00d1][A-Z\u00d1a-z\u00f1\s]+)[.,;]/g)]
+  const socios = [...limpio.matchAll(/(?:do[ñn]a|don)\s+([A-ZÁÉÍÓÚÑ\-]{2,}(?:\s+[A-ZÁÉÍÓÚÑ\-]{2,}){1,4})/g)]
     .map(m => m[1].trim())
-    .filter((v, i, arr) => arr.indexOf(v) === i); // únicos
-
+    .filter((v, i, arr) => arr.indexOf(v) === i);
   datos.socios = socios;
+
+  const rutEmpresarialMatch = limpio.match(/(?:RUT|Rol Único Tributario(?:\s*N[°º\.:])?)\s*[:\.]?\s*(\d{1,2}[\.\d]*\-?[\dkK])/i);
+  const rutLimpio = rutEmpresarialMatch ? rutEmpresarialMatch[1].replace(/\./g, "") : null;
+
+  datos.rut = esRutValido(rutLimpio) ? rutLimpio : null;
+
+  if (!datos.rut) console.warn("⚠️ RUT válido no encontrado.");
 
   return datos;
 }
