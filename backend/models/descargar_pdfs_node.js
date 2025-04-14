@@ -21,7 +21,7 @@ function contarDiasSinDomingos(desde, hasta) {
   return count;
 }
 
-function generarURLDelDia() {
+function generarURLDelDia() {//Actualización
   const fechaHoy = new Date();
   const fechaBase = new Date("2025-04-02");
   const edicionBase = 44115;
