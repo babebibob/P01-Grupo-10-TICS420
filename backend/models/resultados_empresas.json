@@ -1,455 +1,46 @@
 [
   {
-    "archivo": "2633784.pdf",
+    "archivo": "2634016.pdf",
     "tipo_evento": "Disolución",
-    "razon_social": "De Inversiones La Quincha Limitada",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633791.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633795.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "JUAN MAURICIO ARANEDA MEDINA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633797.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": "GLOBAL SpA. Objeto: Uno) La explotación, producción, prestac",
-    "capital": "10.000.000",
-    "objeto": "Uno) La explotación, producción, prestación de servicios y asesorías para eventos y/o espectáculos artísticos, culturales y/o deportivos; la",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633800.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": "77578785-6"
-  },
-  {
-    "archivo": "2633803.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "por acciones la sociedad de responsabilidad limitada",
-    "nombre_fantasia": "Ingeniería Primaq SpA",
-    "capital": "50.000.000.",
-    "objeto": "el objeto de la sociedad es y será la prestación de servicios de obras civiles y de ingeniería, sean por cuenta propia o ajena y la celebración de todos los actos, contratos y negocios encaminados directa o indirectamente a la compra, venta, arrendamiento,",
-    "socios": [
-      "BÁRBARA EUGENIA RIVERA GATICA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633805.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633808.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "es: La promoción y ejecución de todo tipo de negocios por cuenta propia o ajena; compraventa,",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633809.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "por acciones con el nombre de DATA TARGET SpA",
-    "nombre_fantasia": null,
-    "capital": "1.000.000",
-    "objeto": "A. La empresa tendrá como objeto principal la prestación de servicios tecnológicos, incluyendo el diseño, desarrollo, implementación, mantenimiento y optimización de soluciones informáticas, sistemas de telecomunicaciones y plataformas digitales. Esto comprende la consultoría e ingeniería tecnológica en áreas como la informática, las telecomunicaciones, la ciberseguridad, la inteligencia artificial, el análisis de datos (Big Data), el desarrollo de aplicaciones móviles y web, y la integración de tecnologías de la información y las comunicaciones (TIC). B. La empresa se dedicará a la comercialización, instalación, soporte técnico y mantenimiento de hardware, software y dispositivos tecnológicos. También desarrollará proyectos relacionados con el Internet de las Cosas (IoT), computación en la nube (Cloud Computing), automatización de procesos mediante robótica (RPA) y soluciones tecnológicas para empresas y particulares. C. La empresa podrá ofrecer servicios de formación y capacitación en el uso de herramientas tecnológicas, metodologías ágiles para desarrollo de proyectos (Scrum, Kanban), y en tendencias tecnológicas emergentes. Además, podrá participar en actividades relacionadas con el diseño gráfico digital, producción audiovisual, marketing digital y comercio electrónico. D. La empresa estará facultada para realizar investigaciones tecnológicas y científicas orientadas al desarrollo de nuevos productos o servicios innovadores. También podrá gestionar licencias tecnológicas, patentes y derechos relacionados con propiedad intelectual. E. La empresa podrá adquirir, comprar, vender, arrendar o administrar toda clase de bienes muebles e inmuebles, así como derechos y valores. F. La empresa podrá realizar todo tipo de inversiones, ya sea en empresas, activos financieros, proyectos tecnológicos o cualquier otra actividad que contribuya al crecimiento y desarrollo de la empresa.",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633810.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": ", para el cumplimiento del objeto social, corresponderá excl",
-    "capital": "12.000.000.",
-    "objeto": null,
-    "socios": [],
-    "rut": "78892470-4"
-  },
-  {
-    "archivo": "2633812.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "JAVIERA PAZ ERAZO HERMOSILLA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633813.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "VINIFICADORA LO VALDIVIA LIMITADA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "EDUARDO TEOBALDO RAMOS SANCHEZ",
-      "MARCELO GERMAN DE JESUS RAMOS",
-      "GERARDO ANTONIO RAMOS SANCHEZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633818.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "WLADIMIR ALEJANDRO SCHRAMM LOPEZ",
-      "JUAN IGNACIO MORENO PATIÑO",
-      "GIANINA ANDREA INFANTA POZO",
-      "CARMEN SARA PATIÑO PINO",
-      "GIANINA ANDREA POZO INFANTA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633819.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "2.000.000",
-    "objeto": null,
-    "socios": [
-      "PEDRO ANDRÉS BRIONES GONZÁLEZ"
-    ],
-    "rut": "77673407-1"
-  },
-  {
-    "archivo": "2633823.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "INMOBILIARIA TORREBLANCA SpA",
-    "nombre_fantasia": "TORREBLANCA SpA",
-    "capital": "180.000.000",
-    "objeto": "a) La gestión inmobiliaria, por medio de la compra, venta, arriendos de todo tipo de bienes inmuebles. Construcción, modificación y reparación de todo tipo de casas, edificios, galpones, locales comerciales y en general, cualquier tipo de construcción permitida por las leyes vigentes, compra, venta, arriendo, subdivisión de propiedades inmuebles; b) Inversión en todo tipo de acciones, valores comerciales, monedas extranjeras, depósitos como de cualquier otro instrumento financiero; c) Todas las actividades que los socios acuerden, tengan o no relación con los giros expresados.",
-    "socios": [
-      "ERIKA ALEJANDRA MARÍN RIVERA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633826.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": "76032052-8"
-  },
-  {
-    "archivo": "2633831.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "CASTRO SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": ",",
-    "socios": [
-      "ANDREA ALEJANDRA CASTRO ROSALES",
-      "CLAUDIA LORENA CALDERON FLANDEZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633832.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": "de Responsabilidad Limitada",
-    "nombre_fantasia": null,
-    "capital": "1.000.000",
-    "objeto": "a) La actividad turística y explotación de centros recreacionales; b) servicios de agencia de viajes y turismo, vía aérea, terrestre y marítima, la compraventa de paquetes turísticos, operador turístico, guía, recorridos turísticos, turismo gastronómico y rural, turismo aventura y deportes extremos, para toda clase de personas, naturales y/o jurídicas, nacionales y/o extranjeras, en general; c) la compra, venta, comercialización y distribución de toda clase de pasajes, tickets, tours, arriendo de vehículos y actividades de capacitación turística; d) la agencia o",
-    "socios": [
-      "VERÓNICA DEL CARMEN GONZÁLEZ ACEVEDO",
-      "RODOLFO EDUARDO ANDRADE GARCÍA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633837.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "Inmobiliaria Flores Aramburu Limitada",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": "76635025-9"
-  },
-  {
-    "archivo": "2633841.pdf",
-    "tipo_evento": "Constitución",
     "razon_social": "de responsabilidad limitada",
-    "nombre_fantasia": null,
-    "capital": "104.166.667",
-    "objeto": "El objeto de la Sociedad será efectuar inversiones en toda clase de bienes muebles e inmuebles, corporales e incorporales, como son títulos de crédito, títulos valores como acciones, derechos en sociedades de persona, comunidades, bonos, entre otros.",
+    "nombre_fantasia": "Hanna y cía. Limitada. OBJETO: Liquidadores de seguros. DOMI",
+    "capital": null,
+    "objeto": "Liquidadores de seguros.",
     "socios": [],
     "rut": null
   },
   {
-    "archivo": "2633846.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "ARRENDAMIENTOS RENTASTRIP SPA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633848.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633849.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "MARLLORY IVETTE FUENTES SALAZAR",
-      "LUCIANO ANDRES FUENTEALBA NAVARRETE",
-      "MARIO VICTOR FUENTEALBA SANDOVAL",
-      "BORIS NICOLAS MERINO LAVANCHY"
-    ],
-    "rut": "76742500-7"
-  },
-  {
-    "archivo": "2633850.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "INMOBILIARIA PIEDRA ROJAS DOS SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633853.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "El objeto de la Sociedad será: a) Comercialización de productos agrícolas, frutas y verduras del país al por mayor; b) Transporte de carga por carretera; c)La realización de todo tipo de inversiones, en bienes corporales e incorporales, muebles e inmuebles y especialmente derechos sociales, acciones, bonos, etcétera, de sociedades de personas, de",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633857.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "COMERCIAL AMAYA LIMITADA",
-    "nombre_fantasia": null,
-    "capital": "100.891.010",
-    "objeto": null,
-    "socios": [
-      "JOSÉ MIGUEL MINGO ECHAVARRI",
-      "MARÍA VERÓNICA ROJAS TORO",
-      "MARÍA VERÓNICA GEMA MINGO ROJAS",
-      "MARÍA JOSÉ MINGO ROJAS",
-      "NICOLÁS ANSELMO MINGO ROJAS"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633858.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "M.B.S. ALIMENTOS LIMITADA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "de este extracto. En atención a la venta de acciones recién señalada, la sociedad queda formada por los señores Ramón Alonso Olfos Ayarza, Luis Omar Fernández Hernández, y Francisco Elías Truyol Canessa correspondiendo a cada uno a un 40%, 30%, y 30% respectivamente de participación en el haber social. Los actuales socios modifican cláusula octava del nuevo Pacto Social refundido y definitivo, en el sentido que la",
-    "socios": [
-      "LUIS OMAR FERNANDEZ HERNADEZ",
-      "FRANCISCO ELIAS TRUYOL CANESSA",
-      "RAMON ALONSO OLFOS AYARZA",
-      "ALBERTO LEONARDO ALBORNOZ DIAZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633861.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633862.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "por acciones denominada TOKENIXA SpA",
-    "nombre_fantasia": "TOKENIXA",
-    "capital": null,
-    "objeto": "- La sociedad tendrá por objeto exclusivo la comercialización de uno o más de los servicios de (i) Plataforma de financiamiento colectivo; (ii) sistemas alternativos de transacción, (iii) custodia de instrumentos financieros; (iv) enrutamiento de órdenes y/o (v) intermediación de instrumentos financieros, todo ello de acuerdo a la Ley número veintiún mil quinientos veintiuno, y Normas de Carácter General que dicte la Comisión del Mercado Financiero;",
-    "socios": [
-      "NELSON GERARD LABBE MALDONADO"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633867.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "DE INVERSIONES TEMIS SpA",
-    "nombre_fantasia": null,
-    "capital": "4.000.000",
-    "objeto": "a) Importación de productos desde el extranjero y comercialización en Chile al por mayor y menor de todo tipo de productos, artículos, accesorios y alimentos; b) elaboración, distribución, y venta de alimentos y bebidas y cualquier otra actividad análoga o complementaria, en la actualidad o en el futuro, y c) ualquier otro negocio que se establezca y que se relacione, directa o indirectamente con el objeto. Todo lo anterior lo podrá realizar por cuenta propia o ajena, pudiendo formar parte de toda clase de sociedades cuyo objeto se relacione o coadyuve a la realización del presente giro.",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633868.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "MINE CRONS CHILE SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": ". El",
-    "socios": [
-      "JUAN ANTONIO AGUILÓ ROJAS",
-      "JOSÉ MIGUEL TORDECILLA SUÁREZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633869.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": "de PROASIATICOS LTDA, RUT: 76.248.676-8, constituida por esc",
-    "capital": "3.000.000",
-    "objeto": null,
-    "socios": [
-      "MIGUEL ANGEL SALAS GOMEZ",
-      "MIGUEL ANGEL SALAS AGUIRRE",
-      "JUAN GABRIEL CARO TORRES",
-      "MARIA SOLEDAD SANTOS MUÑOZ"
-    ],
-    "rut": "76248676-8"
-  },
-  {
-    "archivo": "2633870.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "MACANZZO SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633871.pdf",
-    "tipo_evento": "Disolución",
+    "archivo": "2634022.pdf",
+    "tipo_evento": "Constitución",
     "razon_social": null,
     "nombre_fantasia": null,
     "capital": "1.000.000",
-    "objeto": "El objeto o giro de la Sociedad será la ejecución por cuenta propia o ajena de las siguientes actividades: a) Servicios de evaluación y certificación de competencias laborales; y b) En general, el desarrollo y ejecución de todas las demás actividades que sean necesarias o conducentes al giro señalado o que se relacionen directamente con éste. Para la ejecución de este objeto, podrá constituir nuevas sociedades o asociarse a las ya constituidas o unirse temporalmente a otras empresas, pudiendo ejercer los giros antes indicados directamente o por medio de sociedades filiales o coligadas. La Sociedad, dentro de su giro, podrá contratar con cualquiera de sus socios.",
-    "socios": [
-      "SANDRO ALEXIS PAREDES DELGADO"
-    ],
-    "rut": "65206732-8"
-  },
-  {
-    "archivo": "2633872.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": "76135412-4"
-  },
-  {
-    "archivo": "2633873.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "FERNANDA BELÉN PINO PEREIRA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633877.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "P Y C SERVICIOS CONSTRUCCIONES SpA",
-    "nombre_fantasia": "P Y C SpA",
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "ERNESTO ESTEBAN CID CARES",
-      "ERWIN EDUARDO PEÑA RIOS"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633883.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "por acciones denominada SQM Nueva Industrial II SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": "79947100-0"
-  },
-  {
-    "archivo": "2633884.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": ". La nueva sociedad por acciones que se constituye como consecuencia de la división se denominará Inversiones Casinvest Dos SpA (en adelante, la “Nueva Sociedad”); /ii/ Disminuir el",
+    "objeto": "CONSTRUCCIÓN.",
     "socios": [],
     "rut": null
   },
   {
-    "archivo": "2633887.pdf",
+    "archivo": "2634093.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": "La Sociedad tendrá por objeto, en la República de Chile o en el extranjero, por cuenta propia o por cuenta de terceros, o por medio de otras sociedades en las que participe o forme al efecto, pudiendo tener en ellas incluso la calidad de gestora, la inversión en toda clase de bienes corporales e incorporales, muebles e inmuebles, y en particular, sin que constituya limitación, su participación como accionista en sociedades de",
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634096.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": "El objeto de la Sociedad será la realización por cuenta propia o de terceros, de las siguientes operaciones: /a/ La exportación e importación, distribución,",
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634097.pdf",
     "tipo_evento": "Disolución",
     "razon_social": null,
     "nombre_fantasia": null,
@@ -459,419 +50,446 @@
     "rut": null
   },
   {
-    "archivo": "2633888.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "MK CHILE SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "ALEJANDRO ELEAZAR NÚÑEZ QUEZADA",
-      "JOSE ALEJANDRO ALVAREZ RUBILAR",
-      "ALEJANDRO ELEAZAR NUÑEZ QUEZADA",
-      "JONATHAN ALEXANDER NUÑEZ MELLA",
-      "JUAN RICARDO SAN MARTÍN URREJOLA"
-    ],
-    "rut": "77521169-5"
-  },
-  {
-    "archivo": "2633890.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "CARLOS ENRIQUE PISMANTE BELTRAN"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633892.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "de responsabilidad limitada ESTUDIO GUZMAN LIMITADA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "ENRIQUE GUZMÁN BLANCO",
-      "MACARENA COX SCHMIDT",
-      "FELIPE GUEVARA SINCLAIR",
-      "SEBASTIÁN UNDURRAGA TUPPER",
-      "JOSÉ MANUEL ARMIJO PICÓ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633894.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "por acciones denominada SQM Nueva Industrial II SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "a/ la operación de plantas de extracción, de beneficio y de transformación de sustancias minerales y de materias primas, productos terminados o semi-terminados y demás relacionados con los anteriores y la comercialización del todo o parte de tales sustancias, materias primas y productos y, ello, actuando por cuenta propia o de terceros e independientemente de que tales sustancias, materias primas y productos sean o no de su dominio; b/ la producción y comercialización de abonos y de compuestos de nitrógeno y demás productos directa o indirectamente relacionados con sustancias minerales no metálicas; y c/ la fabricación de maquinarias para la minería y la construcción y la compraventa y comercialización de combustibles líquidos y sólidos, de bienes raíces urbanos o rurales y de bienes muebles incorporales -tales como acciones, bonos, debentures, activos financieros, documentos mercantiles, cuotas o derechos en sociedades y cualquier clase de títulos o valores mobiliarios- y la",
-    "socios": [],
-    "rut": "79947100-0"
-  },
-  {
-    "archivo": "2633895.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "SANTA MÓNICA HOLDING SpA",
-    "nombre_fantasia": ", ante cualquier institución, pública o privada, incluso ban",
-    "capital": null,
-    "objeto": "de la Sociedad, reemplazando los artículos Primero y Cuarto por los siguientes nuevos textos: “ARTÍCULO PRIMERO. Nombre. El nombre de la sociedad por acciones es “SANTA MÓNICA HOLDING SpA”, pudiendo utilizar también como nombre de fantasía, ante cualquier institución, pública o privada, incluso bancos, el nombre de “SANTA MÓNICA SpA”, y “ARTÍCULO CUARTO. Objeto. El objeto de la sociedad será desarrollar, directamente o por intermedio de terceros, individualmente o en conjunto con otros, dentro del territorio de la República de Chile o en el extranjero, las siguientes actividades: a) La realización, mantención y",
-    "socios": [
-      "PABLO MARTINEZ LOAIZA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633897.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": "CERIX SpA",
-    "capital": null,
-    "objeto": "El objeto de la sociedad es: a.- la prestación de servicio de seguridad y vigilancia a personas naturales o jurídicas, instalaciones, bienes muebles e inmuebles a través de personal especializado o móviles de vigilancia; depósito, custodia y transportes de valores. b.- Instalaciones, mantenimiento y reparación de aparatos, dispositivos y sistemas de seguridad, uso y monitoreo de centrales de recepción, verificación y transmisión de señales de alarma. c.- la compra, venta, importación, distribución y fabricación de equipos, partes o piezas de sistemas de seguridad y vigilancia. D. en general cualquier otra actividad productiva que los socios acuerden y conexas o no con lo anteriormente expuesto.",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633898.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": "de profesionales de responsabilidad limitada",
-    "nombre_fantasia": "de “CITADEL LTDA",
-    "capital": null,
-    "objeto": "o giro ordinario y, en especial, sin que la enumeración sea taxativa y sin necesidad de acreditar ante terceros si ellos corresponden o no al giro social;",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633900.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": "por acciones SQM Nueva Industrial SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633901.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": ". Objeto: Actividades de capacitación, asesoría, consultoría",
-    "capital": "2.000.000",
-    "objeto": "Actividades de capacitación, asesoría, consultoría en temas relacionados con el bienestar y la salud. La prestación de servicios profesionales kinesiológicos, nutricionales y deportivos. Servicios de entrenamiento personalizado. Elaboración y venta de alimentos, servicio de catering Al efecto, la sociedad podrá comprar, arrendar en todas sus formas, vender, equipos técnicos profesionales y de cualquier tipo que sean necesarios para el cumplimiento del objeto social. Podrá asimismo, comprar, vender o arrendar todo tipo de bienes muebles o inmuebles que sean necesarios; importar y exportar toda clase de bienes, sean corporales muebles e inmuebles o incorporales; otorgar asistencia técnica y profesional por sí o por terceros y, en general, cualquier actividad que los socios acuerden y que tenga relación con el área del bienestar físico y mental de las personas.-",
-    "socios": [
-      "PATRICIA VERONICA LILY ARAYA SOTOMAYOR"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633906.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633908.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633909.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": "de responsabilidad limitada",
-    "nombre_fantasia": "ante Bancos y demás instituciones públicas o privadas “AGUA",
-    "capital": null,
-    "objeto": ". Realizar las labores propias de limpieza e higienización de estanques de agua potable, evacuación de aguas, arriendo de motobombas, toda otra actividad relacionada con giros expuestos y toda otra operación directa o indirecta relacionada con las anteriores que se acuerden.- RAZÓN SOCIAL. \"PATRICIA ALEJANDRA BUSTAMANTE ILARRE SERVICIOS DE LIMPIEZA E HIGIENIZACIÓN EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA\", pudiendo usar como nombre de fantasía ante Bancos y demás instituciones públicas o privadas “AGUA LIMPIA E.I.R.L.”.",
-    "socios": [
-      "OSVALDO BUSTAMANTE HORMAZABAL",
-      "PATRICIA ALEJANDRA BUSTAMANTE ILARRE"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633912.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "10.000.000",
-    "objeto": "a) La compra, venta, importación, exportación, consignación, distribución, producción, procesamiento y fabricación, por cuenta propia o ajena, a nivel mayorista o minorista, de toda clase de mercaderías, productos o artículos, especialmente textiles, como la explotación de toda clase de establecimientos comerciales, fabriles e industriales con tal propósito; b) La prestación de toda clase de servicios comerciales o administrativos y la explotación de establecimientos de comercio con el mismo propósito, ya sea en la República de Chile o en el extranjero; y c) La",
-    "socios": [],
-    "rut": "59249090-0"
-  },
-  {
-    "archivo": "2633915.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": "Patagónica Ltda.",
-    "capital": null,
-    "objeto": ", por el siguiente, “Artículo Tercero”: el Objeto será: la importación, exportación, comercialización, compra y venta de todo tipo de bienes muebles, artículos, insumos, equipos y maquinarias; comercialización compra y venta de productos alimenticios de todo tipo, en estado natural o congelados, sean estos agrícolas, vitivinícolas o del mar; La",
-    "socios": [],
-    "rut": "77983030-6"
-  },
-  {
-    "archivo": "2633917.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633919.pdf",
+    "archivo": "2634098.pdf",
     "tipo_evento": "Disolución",
     "razon_social": null,
     "nombre_fantasia": null,
     "capital": "1.000.000.",
-    "objeto": "La sociedad tendrá por objeto, directamente o por intermedio de terceros, individualmente o en conjunto con otros, dentro del territorio de la República de Chile o en el extranjero: a) prestar servicios de Consultoría y Asesoría en el desarrollo de nuevos productos, finanzas, recursos humanos, innovación, marketing y publicidad, entre otros; b) el desarrollo de las actividades vinculadas directa o indirectamente con la organización,",
+    "objeto": "a) la inversión en todo tipo de bienes muebles o inmuebles, corporales o incorporales, incluyendo la adquisición de acciones de sociedades anónimas, derechos de sociedades, efectos de comercio, bonos, cuotas de fondos mutuos o de fondos de inversión privado o públicos y toda clase de títulos o valores mobiliarios o instrumentos de inversión y la",
     "socios": [
-      "FELIPE JAVIER MARTÍNEZ RACCOUSIER"
+      "RAFIK MAHMUD MERLEZ GHIGLINO",
+      "MARA SAMIHA MERLEZ GHIGLINO",
+      "AMINA AGNESE MERLEZ GHIGLINO",
+      "ADIB ASSED MERLEZ QUINTAR",
+      "CLAUDIA JOSEFINA GHIGLINO SALTORI",
+      "MARA SAMIHA",
+      "AMINA AGNESE",
+      "RAFIK MAHMUD"
     ],
     "rut": null
   },
   {
-    "archivo": "2633925.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "IKO-AXTER S.A.",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633926.pdf",
+    "archivo": "2634099.pdf",
     "tipo_evento": "Disolución",
     "razon_social": null,
     "nombre_fantasia": null,
     "capital": null,
-    "objeto": null,
+    "objeto": ". Los objetos de la sociedad serán a) La compra, venta, arrendamiento, adquisición y, en general la enajenación, ya sea por cuenta propia o de terceros, de toda clase de bienes raíces, agrícolas y no agrícolas, como asimismo, la planificación y desarrollo de todo tipo de proyectos inmobiliarios dentro del país y/o en el extranjero, tales como la subdivisión de todo tipo de inmuebles, la realización de loteos y urbanizaciones, la venta de parcelas, lotes y unidades que resulten de las referidas subdivisiones y urbanizaciones, con o sin derechos de aprovechamiento de aguas y la comercialización de toda clase de bienes inmuebles; el arrendamiento, subarrendamiento, usufructo o cualquiera otra forma de cesión del uso o goce temporal de bienes corporales muebles, inmuebles amoblados, inmuebles con instalaciones o maquinarias que permitan el ejercicio de alguna actividad comercial o industrial y de todo tipo de establecimientos de comercio. b) La inversión en toda clase de fondos mutuos, depósitos a plazo, efectos de comercio, y, en general en todo tipo de instrumentos financieros, como, asimismo, la explotación rentística de acciones de sociedades anónimas, la realización de inversión pasiva en bienes muebles, corporales o incorporales, y en toda clase de bienes raíces, pudiendo al efecto comprar, vender o conservar tales inversiones. Para el cumplimiento de este objeto, la sociedad podrá celebrar y ejecutar toda clase de actos y contratos e incluso formar sociedades o ingresar a ellas.",
     "socios": [
-      "JAVIER EDUARDO RAMIREZ VODNIZZA",
-      "MARIA SOLEDAD DEL CARMEN HERRERA",
-      "EDUARDO JOSE RAMIREZ HERRERA",
-      "CLAUDIO JAVIER RAMIREZ HERRERA",
-      "MARIA SOLEDAD RAMIREZ HERRERA",
-      "NESTOR EDUARDO RAMIREZ LETELIER"
+      "EMANUEL ALFREDO CORREA VARGAS",
+      "JUAN JOSÉ CORREA ALARCÓN",
+      "MARÍA LUZ VARGAS GAJARDO"
     ],
     "rut": null
   },
   {
-    "archivo": "2633927.pdf",
+    "archivo": "2634100.pdf",
     "tipo_evento": "Disolución",
-    "razon_social": "CONSULTORA INTEGRAL SOCIEDAD LIMITADA",
+    "razon_social": "de responsabilidad limitada INVERSIONES Y ASESORIAS TIKVA LIMITADA",
     "nombre_fantasia": null,
     "capital": null,
     "objeto": null,
-    "socios": [],
+    "socios": [
+      "PAMELA EUGENIA GOLDBAUM PIMSTEIN",
+      "LEONARDO JOSE KOGAN KRIZ",
+      "FLORENCIA ANDREA KOGAN GOLDBAUM"
+    ],
     "rut": null
   },
   {
-    "archivo": "2633930.pdf",
+    "archivo": "2634101.pdf",
     "tipo_evento": "Disolución",
     "razon_social": null,
     "nombre_fantasia": null,
+    "capital": "2.000.000.",
+    "objeto": "El objeto de la sociedad será la realización de toda clase de objetos de arte, artesanía y de decoración; la compra, venta, elaboración, creación, reparación de toda clase de joyas y objetos de materiales nobles; la realización de toda clase de actividades de orfebrería; la comercialización de toda clase de productos de estética personal; y en general, la realización de toda otra actividad directa o indirectamente relacionada con las anteriores u otra actividad que expresamente acuerden los socios.",
+    "socios": [],
+    "rut": "9498033-K"
+  },
+  {
+    "archivo": "2634102.pdf",
+    "tipo_evento": "Constitución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": "2.000.000.",
+    "objeto": "El objeto de la sociedad será la compra, venta, importación y exportación; la comercialización, distribución de toda clase de artículos de belleza, de cosmética, de perfumería, y en general de todos los productos de cuidado personal; y en general, la realización de toda otra actividad directa o indirectamente relacionada con las anteriores u otra actividad que expresamente acuerden los socios.",
+    "socios": [],
+    "rut": "8743480-K"
+  },
+  {
+    "archivo": "2634103.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": "10.000.000",
+    "objeto": "a).- La actividad comercial en sus más amplias y variadas formas o modalidades al por menor y al detalle y muy en especial, la compra, venta, de frutos del país y/o frutas y la comercialización, comisión, consignación, distribución,",
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634105.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": "10.000.000.",
+    "objeto": "Invertir en toda clase de bienes muebles o inmuebles, corporales e incorporales, tales como acciones, bonos, depósitos, debentures, cuotas o derechos en sociedades y cualquier clase de títulos o valores mobiliarios, con la facultad de administrar dichas inversiones; adquirir, enajenar y explotar toda clase de bienes inmuebles, explotarlos directamente o por terceros en cualquier forma, administrar por cuenta propia o ajena dichas inversiones; formar parte en otras sociedades, modificarlas, asumir la",
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634106.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": "10.000.000.",
+    "objeto": "a).- La sociedad tendrá como objeto principal la importación de frutas frescas, congeladas, embazadas y/o procesadas; b).- Importación de todo tipo de materias primas, productos elaborados, maquinarias y materiales, especialmente insumos y tecnologías especializadas para la producción agrícola, alimentaria, frutícola y comercial, así como para la conservación y embalaje de frutas, con el fin de mejorar la calidad de los productos y optimizar los proceso productivos; c).- La importación de todo tipo de frutas, granos y verduras sean estas frescas o congeladas, así como sus subproductos; d).- Comercializar y distribuir dentro del país dichas importaciones, incluyendo la realización de actividades de marketing, estudios de mercado y establecimiento de redes de distribución; e).- Participar directa o indirectamente en importación de frutas y verduras, incluyendo la adquisición, arrendamiento o asociación con terceros; y cualquier otra actividad relacionada con la importación en sus más amplias variedades que los accionistas acuerden.",
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634108.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "Inmobiliaria Grego-Mar SpA",
+    "nombre_fantasia": null,
     "capital": null,
     "objeto": null,
     "socios": [],
     "rut": null
   },
   {
-    "archivo": "2633934.pdf",
+    "archivo": "2634109.pdf",
     "tipo_evento": "Disolución",
     "razon_social": "de responsabilidad limitada",
     "nombre_fantasia": null,
     "capital": null,
     "objeto": null,
     "socios": [
-      "GINO BENEVENTI ALFARO"
+      "ESMIRNA VIDAL MORAGA"
     ],
     "rut": null
   },
   {
-    "archivo": "2633936.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "NUEVA CHAMISERO SpA",
-    "nombre_fantasia": null,
-    "capital": "100.000.000",
-    "objeto": "a) La inversión y explotación de bienes inmuebles agrícolas y no agrícolas de su propiedad, pudiendo lotearlos, dividirlos, repararlos, construir en ellos, darlos en arrendamiento, administrarlos, transferirlos a cualquier título, aportarlos y recibir sus frutos; (b) Adquirir bienes raíces urbanos y rurales a fin de explotarlos mediante el arrendamiento o en otra forma; y (c) Adquirir toda clase de bienes muebles, derechos, acciones y valores mobiliarios.-",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633937.pdf",
+    "archivo": "2634111.pdf",
     "tipo_evento": "Disolución",
     "razon_social": null,
-    "nombre_fantasia": "Colorados",
+    "nombre_fantasia": "para fines de publicidad y propaganda el de “ Todas María Sp",
     "capital": null,
-    "objeto": "La Sociedad tendrá por objeto: /a/ La exploración y explotación de concesiones mineras bajo cualquier título, de su propiedad o de terceros; /b/ La comercialización, adquisición, venta, arriendo y celebración de promesas, opciones mineras o contratos de cualquier naturaleza respecto de las concesiones o derechos mineros, incluidas las regalías mineras, de su propiedad o de terceros, y la participación en el desarrollo de proyectos mineros en cualquiera de sus fases; /c/ En general, realizar toda otra actividad directa o indirectamente relacionada a las anteriores y celebrar y ejecutar toda clase de contratos y actos que digan relación con la industria minera y que sean conducentes, útiles o necesarios a la consecución de los fines sociales, sin necesidad de modificar los presentes estatutos. La Sociedad podrá efectuar total o parcialmente su giro, directamente o por medio de otra u otras sociedades de las que forme parte o constituya al efecto.",
+    "objeto": "La Sociedad tiene por objeto, en forma individual o en conjunto, asociación, sociedad o comunidad con otros, por cuenta propia o de terceros, directa o indirectamente, en el país o en el extranjero, desarrollar las siguientes actividades: La Sociedad tiene por objeto, en forma individual o en conjunto con otros, por cuenta propia o de terceros, directa o indirectamente, en el país o en el extranjero, desarrollar las siguientes actividades: uno) a) Compra, venta, arriendo, permuta, corretaje,",
     "socios": [],
     "rut": null
   },
   {
-    "archivo": "2633938.pdf",
+    "archivo": "2634112.pdf",
     "tipo_evento": "Disolución",
-    "razon_social": "TOQUI SERVICIOS SpA",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": null,
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634115.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": "1.000.000.",
+    "objeto": "a) La realización de todo tipo de inversiones en general y de negocios que los socios deseen desarrollar sin limitaciones de ninguna especie; b) La realización de inversiones inmobiliarias, la adquisición, enajenación, comercialización,",
+    "socios": [
+      "DANTE NATANAEL NÚÑEZ TAPIA"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634116.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": "1.000.000.",
+    "objeto": "a) La realización de todo tipo de inversiones en general y de negocios que los socios deseen desarrollar sin limitaciones de ninguna especie; b) La realización de inversiones inmobiliarias, la adquisición, enajenación, comercialización,",
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634117.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": "1.000.000.",
+    "objeto": "a) La realización de todo tipo de inversiones en general y de negocios que los socios deseen desarrollar sin limitaciones de ninguna especie; b) La realización de inversiones inmobiliarias, la adquisición, enajenación, comercialización,",
+    "socios": [
+      "NELSON DANTE NÚÑEZ GONZÁLEZ",
+      "DANTE NATANAEL NÚÑEZ TAPIA"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634119.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "de responsabilidad limitada",
+    "nombre_fantasia": "AMTTEK LTDA.",
+    "capital": null,
+    "objeto": "(a) Construcción y reparación de artefactos, motores, elementos eléctricos; la construcción y reparación de equipos para la generación, transformación, conmutación, rectificación, control y distribución eléctrica; Construcción y reparación de aparatos de soldadura eléctrica; Construcción y reparación de otros aparatos industriales eléctricos no clasificados en otra parte; Fabricación de material eléctrico no clasificado en otra parte.; (b).- La compraventa, permuta e inversión en toda clase de bienes muebles, corporales o incorporales, incluyendo acciones, valores, debentures, títulos de toda clase, y cualesquiera otros efectos de comercio; (c).- La importación, exportación, compra, venta, permuta, arrendamiento o cesión a otro título oneroso, de toda clase de bienes y productos, elaborados o semielaborados, incluyendo maquinarias, herramientas, repuestos y accesorios de toda clase y para cualquier clase de artefactos o negocios, especialmente de artículos eléctricos y productos de ferretería, materiales, artefactos y elementos propios de la construcción, de instalaciones eléctricas y su distribución; (d).- La",
+    "socios": [
+      "ROSSAN GREICE CORREA MANZANO",
+      "MICAELA ANTONIA MARTINEZ CORREA",
+      "ROSSANA GREICE CORREA MANZANO"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634120.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "GESTION INTEGRAL DE PROYECTOS Y SERVICIOS INMOBILIARIOS LIMITADA",
     "nombre_fantasia": null,
     "capital": null,
     "objeto": null,
     "socios": [
-      "MIGUEL ANGEL FIGUEROA OÑATE",
-      "JUAN RICARDO SAN MARTÍN URREJOLA"
+      "ANGELICA MARIA SOLIS SORIANO",
+      "JOSE ROBERTO ZAMBRANO MARCOS",
+      "LEONOR ZAMBRANO SCHWARZE",
+      "SILVIA LORETO ZAMBRANO MARCOS"
     ],
     "rut": null
   },
   {
-    "archivo": "2633939.pdf",
-    "tipo_evento": "Constitución",
+    "archivo": "2634122.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "CASA NAPOLITANA SpA",
+    "nombre_fantasia": "de ZUU SpA.- Demás estipulaciones en escritura extractada.-",
+    "capital": null,
+    "objeto": null,
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634123.pdf",
+    "tipo_evento": "Disolución",
     "razon_social": null,
-    "nombre_fantasia": "PEUCHÉN SpA",
-    "capital": "503.270.011",
-    "objeto": "a) La compraventa, comercialización, arrendamiento, subarrendamiento, loteo, subdivisión, construcción y urbanización de toda clase de bienes raíces, urbanos o rurales, por cuenta propia o ajena, en cualquier forma; b) La inversión, adquisición, enajenación y explotación de toda clase de bienes inmuebles raíces, rústicos o urbanos, estén o no edificados, hipotecarlos y gravarlos en cualquier forma y a cualquier título, administrar dichas inversiones por cuenta propia o ajena y obtener rentas; c) El corretaje y la intermediación de propiedades y la promoción de negocios y proyectos inmobiliarios; d) La realización de todo tipo de estudios, asesorías y consultorías de carácter comercial, económico, financiero y técnico, en el área inmobiliaria; e) La importación, exportación, compra, venta, permuta, comercialización y distribución de toda clase de productos, bienes y/o servicios relacionados con el giro social; f) La formación y la participación en sociedades, comunidades y asociaciones, chilenas o extranjeras, cualquiera que sea su naturaleza o giro, formar parte de ellas, modificarlas y asumir la",
+    "nombre_fantasia": "APC MINERALES LTDA",
+    "capital": null,
+    "objeto": null,
     "socios": [
-      "JOSÉ ANTONIO RUIZ ASENCIO",
-      "MACARENA LORETO AGUILAR NAVARRO"
+      "SHU-HUA CHEN HUNG",
+      "CHING YAO CHEN",
+      "JORGE PATRICIO ALFARO PEREIRA"
     ],
-    "rut": null
+    "rut": "76144448-4"
   },
   {
-    "archivo": "2633940.pdf",
+    "archivo": "2634124.pdf",
     "tipo_evento": "Disolución",
     "razon_social": "de responsabilidad limitada",
     "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "WALTER ALBERTO AVDALOFF VALENCIA",
-      "TAMARA CLAUDIA AVDALOFF SCHWARTZMAN",
-      "MARÍA ISABEL BARRIENTOS ASTORQUIZA"
-    ],
-    "rut": "78306050-7"
-  },
-  {
-    "archivo": "2633942.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "CONFECCIONES YARDI LIMITADA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "FELIX JOSE PÉREZ- YARZA GUTIÉRREZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633943.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": "responsabilidad limitada",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "GABRIEL ANTONIO GUTIÉRREZ NILO",
-      "CARLOS ALEJANDRO VARGAS DONOSO",
-      "CARLOS IGNACIO VARGAS TORO",
-      "ANDRÉS GABRIEL GUTIÉRREZ FREIRE"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633944.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "INMOBILIARIA PRESIDENTE RIESCO S.A.",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
+    "capital": "500.000.",
+    "objeto": "La prestación de servicios o asesorías profesionales de ingeniería y actividades de consultoría técnica.",
     "socios": [],
     "rut": null
   },
   {
-    "archivo": "2633945.pdf",
+    "archivo": "2634128.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "comercial responsabilidad limitada",
+    "nombre_fantasia": null,
+    "capital": "5.500.000",
+    "objeto": "a) La fabricación de plantillas, prótesis de todo tipo, y cualquier otra actividad que acuerden los socios relacionados con la rehabilitación de los pacientes, y toda otra actividad relacionada, en la actualidad o en el futuro, con las anteriores y cualquier otro objeto que los socios acuerden; b) La importación, exportación y distribución y venta de todo tipo de elementos, repuestos y accesorios para la rehabilitación física de pacientes; c); Nombre de la Sociedad y razón social: ORTOPEDIA MEDICO KINESICA LIMITADA, pudiendo funcionar y actuar, inclusive con los bancos, con la palabra Limitada abreviada como “LTDA.\"",
+    "socios": [
+      "MANUEL IGNACIO CORDOVA CISTERNA",
+      "FELIPE ALEJANDRO SILVA VILLABLANCA",
+      "CÉSAR ALONSO CISTERNA MUÑOZ",
+      "MANUEL IGNACIO CÓRDOVA CISTERNA"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634129.pdf",
     "tipo_evento": "Disolución",
     "razon_social": null,
     "nombre_fantasia": null,
     "capital": null,
     "objeto": null,
-    "socios": [],
+    "socios": [
+      "ANDRES FELIPE RIEUTORD ALVARADO"
+    ],
     "rut": null
   },
   {
-    "archivo": "2633948.pdf",
+    "archivo": "2634131.pdf",
     "tipo_evento": "Disolución",
     "razon_social": null,
     "nombre_fantasia": null,
     "capital": "1.000.000",
-    "objeto": "La Sociedad tendrá por objeto: a) El alquiler de otros tipos de maquinaria y equipo, fabricación de muebles, fabricación de otros productos elaborados de metal; actividades de trabajo de metales, fabricación de productos de madera, corcho, paja y de materiales trenzables, otras actividades de servicios y el comercio al por menor de otros productos nuevos en almacenes especializados. b) Todos los demás negocios que los accionistas acuerden, pudiendo incluso formar parte o tomar participación en otras sociedades o asociaciones que ya existan o que ella entre a constituir. La Sociedad podrá desarrollar total o parcialmente su giro, por cuenta propia o ajena o por medio de otras sociedades en las que participe o forme al efecto, pudiendo tener en ellas inclusive la calidad de socia gestora.",
+    "objeto": "la inversión en toda clase de bienes muebles o inmuebles, tales como acciones, cuotas o derechos en todo tipo de sociedades, ya sean civiles o comerciales, cooperativas, comunidades o asociaciones.",
+    "socios": [],
+    "rut": "76871326-k"
+  },
+  {
+    "archivo": "2634134.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": "de la Sociedad por Acciones abarcara a) Rubro enseñanza, instalación, equipamiento,, explotación y",
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634135.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": "La sociedad tendrá por objeto el desarrollo, comercialización, implementación, integración, operación y mantenimiento de soluciones informáticas orientadas a la gestión de procesos en entornos de seguridad electrónica, incluyendo software para sistemas de monitoreo, control, detección de eventos, generación de alertas tempranas, y automatización de respuestas ante eventos.Asimismo, podrá prestar servicios de consultoría tecnológica, análisis de datos, ingeniería de software, diseño de arquitecturas digitales, integración de plataformas y dispositivos electrónicos, soporte técnico y capacitación en el uso de dichas herramientas. La sociedad también podrá realizar actividades de investigación y desarrollo tecnológico en las áreas de ingeniería informática, análisis predictivo, inteligencia computacional aplicada a la gestión de riesgos y desarrollo de algoritmos para optimizar procesos operativos en entornos controlados. Además, podrá importar, exportar, distribuir y comercializar bienes y servicios relacionados con sistemas de información, hardware especializado y soluciones tecnológicas aplicadas a entornos urbanos, industriales, públicos o privados. Todo ello sin perjuicio de que la sociedad pueda dedicarse a cualquier otra actividad lícita de carácter civil o comercial que acuerden sus socios. 4.-",
     "socios": [
-      "JUAN JOSÉ MARTÍNEZ LARGO"
+      "TOMÁS ESTEBAN ROJAS LA LUZ",
+      "ALLAN JOHN MURPHY MONTENEGRO",
+      "CÉSAR ALFREDO ULZURRUN DÍAZ",
+      "RODRIGO NELSON ULZURRUN DÍAZ"
     ],
     "rut": null
   },
   {
-    "archivo": "2633950.pdf",
+    "archivo": "2634140.pdf",
+    "tipo_evento": "Constitución",
+    "razon_social": "de responsabilidad limitada",
+    "nombre_fantasia": ". “COMERCIALIZADORA AZUL VIOLETA LTDA.",
+    "capital": "10.000.000",
+    "objeto": "el objeto de la empresa será: a) la producción, fabricación, envasado, compraventa, exportación y expendio, al por mayor y al detalle, de todo tipo de alimentos, abarrotes, productos lácteos, cecinas, bebidas de fantasía, alcohólicas, así como también artículos de paquetería; b) la explotación por cuenta propia o ajena de establecimientos gastronómicos, restaurante, panadería, pastelería, rotisería, abarrotes, botillerías, minimarket o similares; c) adquirir, enajenar, arrendar y explotar la clase de bienes muebles y establecimientos comerciales; y, d) en general, realizar todas aquellas actividades, actos o contratos que estando de acuerdo lo socios, digan relación directa o indirectamente con el objeto social o que lo complementen.",
+    "socios": [
+      "EMERSON ROMULO MAURICIO ACOSTA"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634143.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "INVERSIONES PUNTA SUR LIMITADA",
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": null,
+    "socios": [
+      "JUAN FRANCISCO NOVION CREMASCHI",
+      "CATALINA NOVION CREMASCHI",
+      "ANA JOSEFINA NOVION CREMASCHI",
+      "CARMEN NOVION CREMASCHI",
+      "ALEJANDRA DEL CARMEN NOVION CREMASCHI"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634144.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": "1.000.000.",
+    "objeto": "uno. La orientación vocacional y profesional para niños y adolescentes con alta capacidad; dos. El diseño y desarrollo de planes educativos personalizados para estudiantes con altas capacidades; tres. La evaluación de la doble excepcionalidad -alta capacidad más discapacidad- en niños y adolescentes; cuatro. El desarrollo de programas de enriquecimiento académico para estudiantes con alta capacidad; cinco. Terapias y acompañamiento psicológico para niños y adolescentes con alta capacidad; seis. Asesoría psicológica a padres sobre estrategias de crianza y manejo de niños con altas capacidades; siete. Consultoría para crear ambientes educativos inclusivos para estudiantes con altas capacidades; ocho. Diagnóstico y tratamiento de problemas emocionales o conductuales en estudiantes con alta capacidad; nueve. Desarrollo de programas de liderazgo y habilidades sociales para adolescentes con alta capacidad; diez. Asesoría para la creación de programas de intervención temprana en educación infantil para identificar alta capacidad; once. Capacitación y talleres sobre neurociencia y educación para psicólogos y educadores; doce. Evaluación y análisis de talento en empresas y organizaciones para identificar potenciales con alta capacidad; trece. Acompañamiento psicológico y coaching para jóvenes con alta capacidad en transición a la vida universitaria; catorce. Asesoría y acompañamiento para la integración de estudiantes con altas capacidades en entornos educativos regulares; quince. Diseño de programas de estimulación cognitiva para niños con altas capacidades; dieciséis. Consultoría en la implementación de actividades extracurriculares para el desarrollo de talento en estudiantes con alta capacidad; diecisiete. Desarrollo de programas de apoyo emocional para estudiantes con altas capacidades que enfrentan estrés o ansiedad; dieciocho. Evaluación y asesoramiento en el área de habilidades socioemocionales para niños y adolescentes con alta capacidad; diecinueve. Terapias grupales para fortalecer habilidades sociales de adolescentes con alta capacidad; veinte. Análisis y asesoramiento sobre la percepción de la alta capacidad en la sociedad y su impacto en la autoestima de los estudiantes; veintiuno. Acompañamiento en la gestión de la ansiedad académica en estudiantes con altas capacidades; veintidós. Consultoría en la integración de tecnología educativa para apoyar el aprendizaje de estudiantes con alta capacidad; veintitrés. Talleres de manejo emocional y motivación para estudiantes con alta capacidad intelectual; veinticuatro. Desarrollo de programas de fomento de la creatividad y el pensamiento crítico en jóvenes con alta capacidad; veinticinco. Investigación y análisis de políticas educativas sobre alta capacidad y propuestas de mejora; veintiséis. Creación de materiales educativos personalizados para el desarrollo de estudiantes con alta capacidad; veintisiete. Creación, desarrollo y ejecución de talleres para niños de alta capacidad en un espacio físico; en general la realización de cualesquiera otra actividad o negocio que el o los accionistas estimen conveniente;",
+    "socios": [
+      "MARIA PAZ GOMEZ ARIZAGA"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634146.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "DE PROFESIONALES MEDICOS CIRUJANOS WOLFF Y LEVY LIMITADA",
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": null,
+    "socios": [
+      "MICHELLE VIVIANNE MENANTEAUX CHANFREAU",
+      "IRENE LUNA LEVY KIGUEL",
+      "CLAUDIA ALEJANDRA WOLFF LEVY",
+      "MARCELO JOSE WOLFF REYES"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634147.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "DE EDUCACION Y CAPACITACION PARA ALTA CAPACIDAD SpA",
+    "nombre_fantasia": "ALTA CAPACIDAD CONSULTORES Y EDUCACION SpA; objeto: uno. Por",
+    "capital": "1.000.000.",
+    "objeto": "uno. Portal Web de Educación y Tercerización de Cursos; Desarrollo y gestión de una plataforma de e-learning para la venta de cursos en línea; Intermediación de servicios educativos, tercerizando cursos con expertos en alta capacidad, educación y psicología; Venta de cursos en modalidad asincrónica -grabados- y sincrónica -en vivo-; Implementación de membresías y suscripciones para acceso a contenidos exclusivos; Comercialización de capacitaciones con y sin código SENCE;",
+    "socios": [
+      "MARIA PAZ GOMEZ ARIZAGA",
+      "XIMENA ALEJANDRA GOMEZ MARTIN",
+      "GISELLE LUKSIC GHIGLIOTTO"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634148.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "MEDICA DOCTORAS ASTORQUIZA LIMITADA",
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": null,
+    "socios": [
+      "MARIA PAZ ASTORQUIZA PRATS",
+      "MARIA CONSTANZA ASTORQUIZA PRATS"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634149.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": null,
+    "socios": [],
+    "rut": null
+  },
+  {
+    "archivo": "2634150.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": "INMOBILIARIA RVM SPA",
+    "nombre_fantasia": "Inmobiliaria RVM SpA",
+    "capital": "290.000.000.",
+    "objeto": "El objeto de la Sociedad será la adquisición,",
+    "socios": [
+      "MARÍA DE LOS ANGELES UBILLA",
+      "ROCCO PAOLO VIACAVA MOLINA",
+      "CARLOS ARMANDO DANIEL TUDELA AROCA"
+    ],
+    "rut": null
+  },
+  {
+    "archivo": "2634151.pdf",
     "tipo_evento": "Disolución",
     "razon_social": "comercial de responsabilidad limitada",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "MEIXIAO YANG",
-      "XIUYAN ZHANG",
-      "SIYU YE",
-      "BOXIONG LIU",
-      "FANGMEI JI"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633953.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": "OREZA E.I.R.L",
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "MARCELA CECILIA SEPULVEDA MARQUEZ"
-    ],
-    "rut": "76071605-7"
-  },
-  {
-    "archivo": "2633956.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "750.000",
-    "objeto": "La generación, desarrollo y explotación de soluciones tecnológicas basadas en inteligencia artificial, con especial foco en el cumplimiento normativo (compliance), la gestión de denuncias y la optimización de procesos legales y administrativos. Asimismo, podrá proporcionar servicios de asesoría, consultoría y capacitación en materias de transformación digital y analítica de datos, formalizar alianzas estratégicas con terceros, promover la internacionalización de sus soluciones y realizar cualquier otra actividad complementaria que contribuya al crecimiento e implementación de sus fines.",
+    "nombre_fantasia": "para efectos bancarios, comerciales y de publicidad la expre",
+    "capital": "1.000.000",
+    "objeto": "a) La prestación de toda clase de asesorías, consultorías y servicios profesionales en las áreas del coaching, estudios y educación en todas sus formas a personas naturales o jurídicas, de derecho público o privado, nacionales o extranjeras; b) En general, el desarrollo de todo tipo de actividades, negocios, operaciones, actos y contratos conducentes a la consecución de los objetos antes indicados; y c) la realización de todos aquellos otros actos que acuerden los socios.",
     "socios": [],
     "rut": null
   },
   {
-    "archivo": "2633959.pdf",
+    "archivo": "2634154.pdf",
     "tipo_evento": "Disolución",
     "razon_social": null,
     "nombre_fantasia": null,
     "capital": null,
     "objeto": null,
     "socios": [
-      "JUAN IGNACIO CARDONE SOLARI",
-      "JUAN IGNACIO CARDONE PALACIOS"
+      "ANTONIO FERNANDO MARINOVIC MARTORELL",
+      "BALTASAR MARTÍN OLIVARES VON IGEL",
+      "SAMUEL IGNACIO RODRÍGUEZ VANIER"
     ],
     "rut": null
   },
   {
-    "archivo": "2633960.pdf",
+    "archivo": "2634157.pdf",
+    "tipo_evento": "Disolución",
+    "razon_social": null,
+    "nombre_fantasia": null,
+    "capital": null,
+    "objeto": "1) El negocio inmobiliario en general; 2) El arrendamiento de bienes muebles e inmuebles, estos últimos amoblados y sin amoblar; 3) La inversión de",
+    "socios": [],
+    "rut": "77565459-7"
+  },
+  {
+    "archivo": "2634164.pdf",
     "tipo_evento": "Disolución",
     "razon_social": null,
     "nombre_fantasia": null,
@@ -881,645 +499,9 @@
     "rut": null
   },
   {
-    "archivo": "2633964.pdf",
+    "archivo": "44126.pdf",
     "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633968.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "ES MIDAS INVESTMENT SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "JAIME FREDDY ULLOA DIAZ"
-    ],
-    "rut": "77285444-7"
-  },
-  {
-    "archivo": "2633969.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "PATRICIO TELLO ZAMBON Y CIA. LTDA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": "76636210-9"
-  },
-  {
-    "archivo": "2633970.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "TAMPA CARGO S.A.",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "continúa siendo el declarado por los agentes anteriores; b) Que la sociedad y su agencia conocen la legislación chilena y los reglamentos por los cuales habrán de regirse en el país sus actos, contratos y obligaciones; c) Que los bienes de la sociedad y de la agencia quedan afectos a las leyes chilenas, especialmente para responder de las obligaciones que ellas hayan de cumplir en chile; d) Que confirma las declaraciones de los agentes anteriores, realizadas en relación al",
-    "socios": [
-      "WENDY LORENA PARDO NIÑO",
-      "LUIS OCTAVIO BOFILL GENZSCH",
-      "ANA MARÍA YURI CASTELLÓN"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633972.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": "de Responsabilidad Limitada",
-    "nombre_fantasia": "INMOBILIARIA HABITACIONAL LOS CASTAÑOS LIMITADA",
-    "capital": null,
-    "objeto": "A. Compra y venta de bienes inmuebles agrícolas o no agrícolas por cuenta propia; B. La empresa tendrá por objeto desarrollar la compra de propiedades agrícolas para posterior subdivisión, o loteo. Sólo lotes de cinco mil metros, todo para su comercialización; C. El ejercicio de todo tipo de",
-    "socios": [
-      "JAIME ANDRÉS SILVA SCIBERRAS",
-      "LUZ ELENA RIVEROS VILLASECA",
-      "CATHERINE ENRIQUETA CARRASCO CARRASCO",
-      "GUSTAVO ULISES VALDIVIA LEÓN",
-      "CLAUDIO ANTONIO PARADA GONZÁLEZ",
-      "ELICEO EDUARDO POBLETE ESPINA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633973.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": null,
-    "nombre_fantasia": "INVERSIONES SALGADO SpA",
-    "capital": "10.000.000",
-    "objeto": "1.- la inversión en negocios de cualquier índole, como ser, la inversión de dineros y/o valores en toda clase de bienes muebles e inmuebles y bienes muebles incorporales, tales como acciones, bonos, debentures, cuotas o planes de ahorro y/o",
-    "socios": [
-      "SAMUEL JORGE SALGADO BAZAN"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633976.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": "DÍAZ & DÍAZ SpA",
-    "capital": null,
-    "objeto": "Será: a) La ejecución, por cuenta propia o ajena, de toda clase de construcciones, obras y edificaciones, tales como viviendas, edificios, puentes, caminos, tranques, obras de regadío, túneles, puerto, aeropuertos, movimiento de tierra; b) La urbanización y dotación de inmuebles, urbanos o rurales; c) la prestación de toda clase de servicios y asesorías en materias propias de la construcción, pudiendo asesoras, proyectar, planificar, organizar, dirigir y administrar todo tipo de obras; d) Prestar servicios de demolición y preparación de terrenos; e) La realización de inversiones en toda clase de bienes inmuebles, sean urbanos o rurales; la planificación, desarrollo y ejecución de loteos, conjuntos habitacionales, deportivos, turísticos, recreacionales o sociales y de toda clase de proyectos inmobiliarios; la compra, venta, arrendamiento y la comercialización en general de toda clase de bienes inmuebles o de derechos en ellos y el desarrollo y promoción, por cuenta propia o ajena, de negocios inmobiliarios; f) La inversión en toda clase de bienes muebles corporales e incorporales, especialmente acciones, bonos, debentures, efectos de comercio, cuotas o derechos en todo tipo de sociedades, ya sean comerciales o civiles, comunidades p asociaciones y en toda clase de títulos o valores mobiliarios; g) La constitución de sociedades o asociaciones de cualquier tipo y el ingreso a ellas, sea en calidad de socio o accionista, su modificación y la",
-    "socios": [
-      "ANTONIO DAVID DIAZ PIZARRO",
-      "ANDRÉS SEBASTIÁN DÍAZ MUÑOZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633978.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "4.000.000.",
-    "objeto": null,
-    "socios": [],
-    "rut": "78805490-4"
-  },
-  {
-    "archivo": "2633986.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "responsabilidad Limitada",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": ". Será el cultivo en terrenos propios o ajenos que tenga a cualquier título, de frutales, hortalizas, la prestación de servicios agrícolas para la agricultura; compra y venta de frutas y hortalizas de toda especie y la contratación con entidades públicas y privadas y cualquiera otra actividad relacionada con las anteriores.",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2633988.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "CLOVIS PASCHCUAN HURTADO SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "Y",
-    "socios": [
-      "CLOVIS PASCHCUAN HURTADO",
-      "FREDDY LEONARDO SANTANA FRANCO",
-      "NATALIA DEL PILAR ARANCIBIA REYES"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2633991.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "de responsabilidad limitada",
-    "nombre_fantasia": "Globe Italia SpA. Domicilio: Santiago. Objeto. La sociedad t",
-    "capital": null,
-    "objeto": ". La sociedad tendrá por objeto la distribución, compra, venta, fabricación, elaboración y expendio de toda clase de productos alimenticios, asumir las formas de restaurante, pizzería, fuente de soda y otros establecimientos de comercio y sus anexos y elementos, accesorios, incluyendo música y derechos de autor; y cualquier actividad que acuerden los accionistas que tenga relación directa o indirecta con el giro social, pudiendo realizar todos los actos y contratos conducentes con dichos fines. Todo lo anterior podrá realizar por cuenta propia o ajena, pudiendo formar parte de toda clase de sociedades cuyo objeto se relacione o coadyuve a la realización del presente giro.",
-    "socios": [],
-    "rut": "76011482-0"
-  },
-  {
-    "archivo": "2633993.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "100.000.000",
-    "objeto": "1.- Adquirir, enajenar, reparar, bienes raíces o propiedades rústicas y urbanas, construir en ellas, remodelarlas, explotarlas en cualquier forma, directamente o por terceros; administrar por cuenta propia o de terceros dichas inversiones, arrendarlas amobladas o no y obtener sus rentas. 2.- Inversión en bienes muebles, corporales e incorporales, tales como acciones, bonos y debentures, planes de ahorro, cuotas o derechos en todo tipo de sociedades, sean comerciales o civiles, comunidades o asociaciones y en toda clase de títulos o valores mobiliarios. 3.- Compra, venta, arriendo, importación, exportación, distribución, consignación, explotación y",
-    "socios": [],
-    "rut": "12671445-9"
-  },
-  {
-    "archivo": "2634001.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "20.000.000.",
-    "objeto": "Actuando por cuenta propia o de terceros, la realización de las siguientes actividades: a) importación, producción, comercialización, distribución, exportación, compraventa, consignación, permuta, arrendamiento, contratación con terceros, tanto dentro como fuera de Chile, de maquinaria pesada y toda clase de maquinaria y equipos para la actividad industrial, Minera, Forestal y del comercio en general, incluyendo vehículos motorizados, todo tipo y clase de lubricantes, grasas, fluidos y aceites para motores. b) La prestación de servicios de instalación, operación, reparación, mantención, y en general toda la prestación de servicios relacionada con dicha maquinaria, vehículos motorizados, instrumentos y equipos; c) La proporción de asistencia técnica, cursos o programas en relación a la maquinaria, vehículos motorizados, instrumentos y equipos; d) La importación, exportación, comercialización, compra, venta y distribución de todo tipo de repuestos, partes, herramientas, accesorios, materiales, insumos, materias primas, o cualquier otro elemento que sea necesario o conveniente para el desarrollo de las actividades señaladas precedentemente; e) El desarrollo de cualquier otra actividad complementaria a las mencionadas anteriormente, como realizar y gestionar todo tipo de inversiones y/o negocios, ya sean propios o ajenos, relacionados con bienes de cualquier clase, tanto muebles como inmuebles, corporales o incorporales, su explotación, comercialización y/o",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634003.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "PRESTADORA DE SERVICIOS PROFESIONALES DE ARQUITECTURA Y CONSULTORA AIRA LIMITADA",
-    "nombre_fantasia": null,
-    "capital": "2.000.000.",
-    "objeto": null,
-    "socios": [
-      "KARIN ELIZABETH DE LOURDES WAGHORN",
-      "SAVKA AURORA VENEGAS JARA",
-      "CLAUDIA ISABEL BASCUR HENRCHSSON"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634004.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "a) La producción de eventos y servicios de alimentación, comprendiendo almuerzos, cenas, cóctel, entre otros; b) Organizar y/o dictar charlas conferencias o exhibiciones para personas naturales, agrupaciones o empresas; c) Realizar acciones culturales o sociales que permitan agrupar a mujeres para participar en eventos, sean éstos periódicos o esporádicos; d) Realizar todo tipo de acciones y actividades que permitan y faciliten asociar a personas, especialmente mujeres, incluyendo poder contratar personal de captación para este objetivo; e) efectuar acciones de marketing y venta de espacios publicitarios en recintos medios escritos o medios de comunicación en general; f) en general podrán desarrollar negocios afines, complementarios y/o conexos al objeto social, ya sea por cuenta propia y/o ajena.",
-    "socios": [
-      "DIANA ELISABET MARTIN",
-      "ALEJANDRA MARCIA GARCÍA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634006.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "de responsabilidad limitada",
-    "nombre_fantasia": "ante Bancos y con fines comerciales y/o publicitarios, “GRAS",
-    "capital": null,
-    "objeto": ". La compra, venta, importación, distribución y comercialización de artículos de librería y oficina; la compra y venta, distribución y comercialización de todo tipo de artículos y materias primas, productos y mercaderías; diseño e impresiones en general; arrendamiento y",
-    "socios": [
-      "ROSENDO MARIO PUIG PICHUANTE",
-      "GUILLERMO ENRIQUE PUIG PICHUANTE",
-      "JAIME EDUARDO PUIG PICHUANTE"
-    ],
-    "rut": "77786870-5"
-  },
-  {
-    "archivo": "2634007.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "119.000.000",
-    "objeto": "La sociedad tendrá por objeto: a) La prestación de servicios y",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634008.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "COMERCIAL DULCE ESTILO LIMITADA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "ROBERTO EDMUNDO CAMPOS PIZARRO",
-      "JORGE ANDRES OSSA CUEVAS"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634009.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "con Agroindustrial Santa Cruz Limitada",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": "79784980-4"
-  },
-  {
-    "archivo": "2634011.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "El objeto de la sociedad será Importación, exportación de artículos de juguetería, materiales para la confección de juguetes, actividades de servicios sociales, actividades de sindicatos y de otras organizaciones, actividades empresariales y de profesionales prestadas a empresas no clasificadas previamente, comercio al por menor de otros productos nuevos en almacenes especializados, comercio al por menor no realizado en almacenes, enseñanza preescolar, primaria, secundaria y superior; profesores, fabricación de papel y productos de papel, fabricación de productos de madera y corcho, paja y de materiales trenzables, fabricación de productos de plástico, otras actividades de servicios, publicidad, servicios informáticos, venta al por mayor de enseres domésticos, venta al por mayor de otros productos 3.",
-    "socios": [
-      "JUAN FRANCISCO ERAZO SALAZAR",
-      "MAYRA AMIGO FLORES"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634014.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "DE TRANSPORTES DE PASAJEROS EFRABUS SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "FRANCISCO SEBASTIAN ACEVEDO NEIRA"
-    ],
-    "rut": "77608057-8"
-  },
-  {
-    "archivo": "2634015.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "40.000.000",
-    "objeto": "El objeto de la sociedad será el siguiente: El objeto de la sociedad será el siguiente: La sociedad tiene por objeto la prestación de servicios profesionales de toda índole y, en especial, la prestación de servicios y asesorías en materias de inversión, societarias, comerciales, financieras y económicas, para lo cual podrá realizar y celebrar todos los actos y contratos que tengan relación, directa o indirecta, con el objeto social, además de la actividad inmobiliaria en general, para cuyo efecto podrá invertir en toda clase de bienes raíces, sean estos urbanos o rurales, y en derechos sobre esos mismos bienes, los cuales podrá lotear, dividir, subdividir, urbanizar, construir, reconstruir, reparar, restaurar, enajenar, gravar, administrar, arrendar, explotar y percibir sus frutos, pudiendo en general ejecutar todos los actos conducentes a dichos fines y que tengan relación con el objeto social; y cualquier otra actividad que se relacione en la actualidad o en el futuro con todo lo dicho y cualquier otro acto o contrato, relacionado o no con el giro; además de realizar asesorías de copropiedad inmobiliaria, de gestión y",
-    "socios": [
-      "YAHAIRA PATRICIA LAZCANO BUSTOS"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634017.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": null,
-    "nombre_fantasia": "de “SUN WATER SpA.",
-    "capital": "4.000.000",
-    "objeto": "La Sociedad tiene El objeto o giro de la sociedad será La realización de consultorías y asesorías en ingeniería, diseño, estudio y ejecución de todo tipo de proyectos; ejecutar toda clase de obras civiles, infraestructura vial, caminos, puentes o túneles, construir, transformar o reparar casas o edificios con sus instalaciones asociadas; La prestación de servicios en materia de control de calidad; importar, exportar, comprar, vendar o distribuir toda clase de equipo, artefactos de ingeniería, materiales de construcción, casas y repuestos; El diseño y la fabricación de todo tipo de repuestos y equipos; y cualquier otro negocio o actividad que se relacionen en la actualidad o en el futuro, con lo expresado; y cualquier otro objeto que acuerden los socios.-",
-    "socios": [
-      "KARLA PAOLA TOLEDO GONZALEZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634018.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "V&M Abogados SpA",
-    "nombre_fantasia": null,
-    "capital": "45.000.000",
-    "objeto": "actividades jurídicas en general, incluyendo asesorías jurídicas y",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634019.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "CRISTIAN FABRES RUIZ",
-      "MARCIAL ALFONSO NÁJERA ALVIAL"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634024.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "INVERSIONES LA RIOJA SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": ", lo que no será necesario justificar ante terceros, estará investido de todas las DIARIO OFICIAL DE LA REPUBLICA DE CHILE Núm. 44.125Lunes 14 de Abril de 2025Página 2 de 2 CVE 2634024 | Director: Felipe Andrés Peroti Díaz Sitio Web: www.diarioficial.cl | Mesa Central: 600 712 0001 Email: consultas@diarioficial.cl Dirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile. Este documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica avanzada. Para verificar la autenticidad de una",
-    "socios": [],
-    "rut": "77060976-3"
-  },
-  {
-    "archivo": "2634025.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "CRISTIAN FABRES RUIZ",
-      "MARCIAL ALFONSO NÁJERA ALVIAL"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634028.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "JORGE HORACIO OÑATE GARRIDO",
-      "RAMON NIBALDO BUSTAMANTE FARIAS",
-      "CHRISTOPHER LEONART MONTI ESTAY"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634034.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "30.00.000.",
-    "objeto": "EL OBJETO DE LA SOCIEDAD ES LA PROPORCIÓN DE ASESORÍA Y PRESTACIÓN DE SERVICIOS NACIONAL E INTERNACIONALMENTE A PERSONAS JURÍDICAS PRIVADAS, PÚBLICAS Y/O MIXTAS, COMO TAMBIÉN A TERCERAS PERSONAS NATURALES; LA COMPRA, VENTA Y ENAJENACIÓN DE TODA CLASE DE BIENES, MUEBLES E INMUEBLES, CORPORALES E INCORPORALES; LA PRESTACIÓN DE SERVICIOS DE MARKETING, PROPAGANDA Y PUBLICIDAD EN GENERAL; LA IMPORTACIÓN Y EXPORTACIÓN DE PRODUCTOS Y SERVICIOS; Y, EN GENERAL CUALQUIER OTRA ACTIVIDAD PERMITIDA POR LA LEGISLACIÓN CHILENA Y QUE LOS ACCIONISTAS PUDIEREN ACORDAR EN EL FUTURO. PARA TALES PROPÓSITOS LA SOCIEDAD PODRÁ, EN CUALQUIER MOMENTO ADQUIRIR, SUSCRIBIR Y CELEBRAR CONTRATOS Y ACUERDOS DE TODO TIPO QUE SEAN DIRECTA O INDIRECTAMENTE CONVENIENTES O NECESARIOS PARA EL COMPLETO, APROPIADO Y OPORTUNO DESARROLLO DE SU OBJETO SOCIAL.",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634036.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "por acciones JJR MAQUINARIAS Y SERVICIOS SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "ROSA MARY NINAMANGO CABEZUDO",
-      "JORGE FREDDY ROBLES FARFAN",
-      "JORGE LIZANDRO ROBLES NINAMANGO",
-      "JUAN CARLOS ROBLES NINAMANGO",
-      "ROMÁN EDUARDO ROBLES NINAMANGO"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634037.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634038.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "SOCIEDAD INMOBILIARIA TAURO LIMITADA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "RODRIGO FERNANDO SANHUEZA SILVA",
-      "RODRIGO ANDRÉS SANHUEZA SÁNCHEZ",
-      "PAULA XIMENA SANHUEZA SÁNCHEZ",
-      "JAVIERA PAZ SANHUEZA SÁNCHEZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634046.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": "TDC SpA. Domicilio: Santiago. Duración: indefinida. Objeto:",
-    "capital": "7.000.000",
-    "objeto": "a) realización de todo tipo de inversiones y negocios en cualquier clase de bienes inmuebles; y la compra, adquisición,",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634048.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "YOVANNA DE LAS MERCEDES CAMBLOR"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634051.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "de responsabilidad limitada",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634052.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "Sicut Palma SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "JORGE ARNALDO CASTRO SIERRALTA",
-      "RICARDO ANDRÉS MUTIS MAGAGNATO"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634058.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "por acciones denominada INVERSIONES NEUROIMAGEN SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "a) la inversión en acciones sociales, derechos sociales de sociedades médicas o centros radiológicos y valores mobiliarios dentro y fuera del país; b) La participación de la sociedad en cualquier otra actividad que los socios acuerden y que permita un mejor aprovechamiento de la organización social; d) La inversión en bienes inmuebles con el fin de destinarlos al desarrollo del giro social u otros y e) la sociedad podrá desarrollar total o parcialmente su giro, por cuenta propia o ajena o por medio de otras sociedades en las que participe o forme al efecto, pudiendo tener en ellas inclusive la calidad de socia gestora, tanto en el territorio nacional como en el extranjero.",
-    "socios": [
-      "ROLANDO DAVID ULLOA GALLARDO"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634059.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": "ante terceros, y en especial ante los bancos, el de",
-    "capital": null,
-    "objeto": "de la presente sociedad será: a) prestación de servicios propios de la Ingeniería, comprendiéndose proyectos, estudios, asesorías y consultorías, otorgamientos de asistencia e información técnica y",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634061.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "de Responsabilidad Limitada",
-    "nombre_fantasia": "CONSTRUCTORA GENESIS SpA",
-    "capital": null,
-    "objeto": ". i) El estudio y ejecución de todo tipo de obras y de proyectos de Ingeniería y Construcción, por cuenta propia o ajena; la realización de trabajos de edificación de obras civiles, tales como casas, edificios, caminos, puentes, represas, túneles, puertos aéreos o marítimos, ferrocarriles y otros; el desarrollo de proyectos inmobiliarios; la compra, venta, enajenación y arriendo de bienes raíces o muebles; la realización de loteos y obras de urbanización; la construcción, promoción y venta de centros comerciales, locales, oficinas, estacionamientos, edificios y viviendas, acogidas o no a sistemas de franquicias tributarias especiales o de subsidios habitacionales; y la implementación y realización, en general, de todo tipo de proyectos y de obras de Ingeniería y Construcción, y cualquier otro acto o negocio lícito que derive de los anteriores, los complemente o sea una consecuencia de los mismos, u otros que los socios acuerden; ii) La compraventa de sitios y otros inmuebles; la demolición de edificios y construcciones de cualquier especie; el estudio, la construcción, por cuenta propia o ajena, de casas, edificios y otros; la",
-    "socios": [
-      "PAMELA MURIEL VALLEJOS CHARTIER"
-    ],
-    "rut": "79755640-8"
-  },
-  {
-    "archivo": "2634062.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "INVERSIONES FOM IN SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "de la sociedad “DC INVERSIONES SpA” contenido en el Artículo Cuarto, del estatuto social, por el siguiente: “ARTICULO CUARTO: El objeto de la sociedad será: La compraventa, importación, exportación, distribución y comercialización al por mayor o menor, ya sea en locales establecidos para la venta, o por DIARIO OFICIAL DE LA REPUBLICA DE CHILE Núm. 44.125Lunes 14 de Abril de 2025Página 2 de 2 CVE 2634062 | Director: Felipe Andrés Peroti Díaz Sitio Web: www.diarioficial.cl | Mesa Central: 600 712 0001 Email: consultas@diarioficial.cl Dirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile. Este documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica avanzada. Para verificar la autenticidad de una",
-    "socios": [
-      "JAIME ANDRÉS SILVA SCIBERRAS",
-      "DANTE ESTEBAN TORRES IBARRA",
-      "MARIA DAYNE ROJAS CASTRO",
-      "CECILIA DE LOS ÁNGELES MUÑOZ",
-      "CRISTIAN ALEJANDRO ORELLANA GONZÁLEZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634063.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": "67.000.000",
-    "objeto": "La Sociedad tendrá por objeto: a) La gestión inmobiliaria, por medio de la compra, venta, arriendos de todo tipo de bienes inmuebles. Construcción, modificación y reparación de todo tipo de casas, edificios, galpones, locales comerciales y en general, cualquier tipo de construcción permitida por las leyes vigentes, compra, venta, arriendo, subdivisión de propiedades inmuebles; b) Inversión en todo tipo de acciones, valores comerciales, monedas extranjeras, depósitos como de cualquier otro instrumento financiero; c) Todas las actividades que los socios acuerden, tengan o no relación con los giros expresados.-",
-    "socios": [
-      "EDUARDO MARCELO MUÑOZ LÓPEZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634064.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "por acciones TRANSPORTES QUEROL SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634065.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": "TDS SpA",
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "LUCIANO ANDRÉS ANDERSON URRUTIA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634067.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "de responsabilidad limitada",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [
-      "MARCOS SEGUNDO VALVERDE MAUREIRA",
-      "CONSUELO CATALINA VIVANCO BARRAZA"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634068.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": "78835850-4"
-  },
-  {
-    "archivo": "2634069.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "Comercializadora Nico Limitada",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634081.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "GLEANN CORCORAN SpA",
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "La sociedad tendrá por objeto la inversión en toda clase de bienes muebles e inmuebles, corporales o incorporales, tales como acciones, bonos, debentures, opciones, efectos de comercio, cuotas de fondos mutuos, cuotas de fondos de inversión, derechos en sociedades y cualesquiera otros instrumentos mercantiles y mobiliarios, tanto en Chile como en el extranjero; pudiendo entre otros actos, adquirirlos, explotarlos, administrarlos, enajenarlos, percibir sus frutos, darlos en arrendamiento u otras formas de cesión temporal, por cuenta propia o ajena. Para el cumplimiento de su objeto y la inversión de los fondos disponibles, la sociedad podrá celebrar y ejecutar toda clase de actos y contratos, pudiendo constituir y/o participar en toda clase de sociedades, de personas, anónimas, por acciones o de cualquier otro tipo, comunidades y asociaciones; y, en general, realizar toda otra actividad que directa o indirectamente se relacione con las anteriores y que los accionistas determinen.",
-    "socios": [
-      "IAN MICHAEL CORCORAN RUÍZ"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634083.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "La Sociedad tendrá por objeto: a) Realizar toda clase de inversiones en toda clase de bienes, muebles o inmuebles, corporales e incorporales, valores inmobiliarios, acciones, bonos, derechos en sociedades de cualquier naturaleza, cooperativas, comunidades, títulos de renta fija o variable, en moneda nacional o extranjera, efectos de comercio, patentes, marcas, licencias, procesos y concesiones de cualquier rubro, y cualquiera otros bienes así como la",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634084.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "Los objetos de la sociedad serán: a) La generación, producción, obtención, transporte, transformación, o distribución de energía eléctrica, para lo cual podrá planificar, desarrollar, construir, gestionar, explotar, operar y mantener, por cuenta propia o de terceros, públicos o privados, dentro y/o fuera de la República de Chile, proyectos e instrucciones de generación, producción, transformación, transporte, o distribución de energía eléctrica y obras complementarias a partir de fuentes renovables, en todas sus fases, desde la promoción de proyectos hasta la explotación de parques y plantas. Para ello, la sociedad podrá efectuar todos aquellos actos que sean conducentes necesarios o útiles para alcanzar dichos fines, tales como el otorgamiento de garantías reales o personales a fin de caucionar obligaciones propias o de terceros, operaciones de valores, comerciales y/o de bienes raíces, participación en licitaciones nacionales e internacionales de todo tipo, y cualquier otra relacionada o que permita una mejor utilización de la infraestructura o de los recursos de la sociedad o de aquellas en las cuales tenga, directa o indirectamente, participación o interés; b) La compra, venta, importación, exportación, elaboración, producción, comercialización, intermediación, distribución e instalación, por cuenta propia o de terceros, públicos o privados, dentro y/o fuera de la República de Chile, de bienes, insumos, equipos, maquinarias y componentes relacionados con la generación, producción, obtención, transformación, transporte, o distribución de energía eléctrica; c) La realización, mantenimiento, supervisión, optimización, monitoreo y ejecución de actividades complementarias relacionadas con la infraestructura energética, el comercio de energía tradicional o renovable, y la inversión en proyectos de energías renovables; y cualquier otro fin relacionado con el desarrollo de energía eléctrica. Podrá también realizar todas las actividades conexas o conducentes a los objetos señalados u otros negocios que digan relación directa con el giro de la sociedad y, en general, llevar a cabo por sí misma o a través de terceros cualquier negocio que acuerden los socios, para lo cual podrá celebrar y ejecutar toda clase de actos y contratos e incluso formar sociedades o ingresar a ellas.",
-    "socios": [
-      "GUSTAVO OSVALDO BURGEMEISTER VESTER"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634085.pdf",
-    "tipo_evento": "Constitución",
-    "razon_social": null,
-    "nombre_fantasia": "será “ESPACIO ALTRUYE SPA",
-    "capital": null,
-    "objeto": ". La Sociedad tendrá por objeto: A) El diseño, fabricación, instalación y mantenimiento de muros de escalada, entornos sensoriales, mobiliario adaptado y otros elementos estructurales destinados a la estimulación y desarrollo de personas con Trastorno del Espectro Autista (TEA) y otras condiciones neurodivergentes. B) Construcción, remodelación y adecuación de espacios físicos para mejorar la accesibilidad e inclusión en instituciones educativas, clínicas, centros de rehabilitación y otros entornos públicos o privados. C) Comercialización, importación, exportación y distribución de materiales, equipos y tecnología especializada en accesibilidad y estimulación sensorial. D) Desarrollo y realización de charlas, seminarios, capacitaciones y talleres en temas relacionados con la neurodiversidad, accesibilidad, estimulación sensorial, inclusión educativa y laboral. E) Asesoría y consultoría a empresas, instituciones educativas, organismos públicos y privados en la implementación de estrategias de inclusión y adaptación de espacios para personas neurodivergentes. F) Creación y comercialización de contenido educativo, manuales, guías y materiales didácticos en formato digital o físico. G) Prestación de servicios de evaluación, diagnóstico y diseño de entornos accesibles para empresas e instituciones que requieran adaptar sus instalaciones a normativas de inclusión. H) Desarrollo de proyectos en conjunto con organismos públicos y privados para fomentar la inclusión y accesibilidad de personas con TEA y otras condiciones neurodivergentes. I) Organización de eventos, congresos, ferias y actividades de difusión sobre inclusión y accesibilidad en distintos ámbitos. J) En general celebrar toda clase de contratos y realizar todos los actos necesarios y convenientes para desarrollar el giro social.",
-    "socios": [
-      "ALVARO GONZALEZ SALINAS",
-      "RENÉ MAURICIO DURÁN ARCE",
-      "NÉSTOR DARÍO DURÁN ARCE"
-    ],
-    "rut": null
-  },
-  {
-    "archivo": "2634086.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "La Sociedad tendrá por objeto: a) Realizar toda clase de inversiones en toda clase de bienes, muebles o inmuebles, corporales e incorporales, valores inmobiliarios, acciones, bonos, derechos en sociedades de cualquier naturaleza, cooperativas, comunidades, títulos de renta fija o variable, en moneda nacional o extranjera, efectos de comercio, patentes, marcas, licencias, procesos y concesiones de cualquier rubro, y cualquiera otros bienes así como la",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634087.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "La Sociedad tendrá por objeto: a) Realizar toda clase de inversiones en toda clase de bienes, muebles o inmuebles, corporales e incorporales, valores inmobiliarios, acciones, bonos, derechos en sociedades de cualquier naturaleza, cooperativas, comunidades, títulos de renta fija o variable, en moneda nacional o extranjera, efectos de comercio, patentes, marcas, licencias, procesos y concesiones de cualquier rubro, y cualquiera otros bienes así como la",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634088.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": null,
-    "nombre_fantasia": null,
-    "capital": null,
-    "objeto": "La Sociedad tendrá por objeto: a) Realizar toda clase de inversiones en toda clase de bienes, muebles o inmuebles, corporales e incorporales, valores inmobiliarios, acciones, bonos, derechos en sociedades de cualquier naturaleza, cooperativas, comunidades, títulos de renta fija o variable, en moneda nacional o extranjera, efectos de comercio, patentes, marcas, licencias, procesos y concesiones de cualquier rubro, y cualquiera otros bienes así como la",
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "2634089.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "SOCIEDAD ARAYA Y ARANEDA LTDA",
-    "nombre_fantasia": "GT30. 3) Domicilio: Talcahuano. 4) Administración y represen",
-    "capital": null,
-    "objeto": null,
-    "socios": [],
-    "rut": null
-  },
-  {
-    "archivo": "44125.pdf",
-    "tipo_evento": "Disolución",
-    "razon_social": "INMOBILIARIA TORREBLANCA SpA",
+    "razon_social": "Agricola Portezuelo Limitada",
     "nombre_fantasia": null,
     "capital": null,
     "objeto": null,
