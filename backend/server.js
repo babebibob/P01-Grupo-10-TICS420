@@ -1,17 +1,15 @@
-// backend/server.js
 const express = require('express');
 const app = express();
-const PORT = 3000;
+const db = require('./models/db'); // conecta a MongoDB
+const empresasRoute = require('./routes/empresas');
+const cors = require('cors');
 
-// Middleware para poder leer JSON
+app.use(cors());
 app.use(express.json());
 
-// Ruta de prueba
-app.get('/', (req, res) => {
-  res.send('Hola desde el backend con Node.js y Express ');
-});
+app.use('/api/empresas', empresasRoute);
 
-// Levanta el servidor
+const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
-  console.log(`Servidor escuchando en http://localhost:${PORT}`);
+  console.log(`🚀 Servidor corriendo en http://localhost:${PORT}`);
 });
