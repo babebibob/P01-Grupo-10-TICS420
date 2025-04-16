@@ -1,18 +1,30 @@
 {
-  "name": "models",
+  "name": "backend",
   "version": "1.0.0",
-  "main": "db.js",
+  "description": "Backend for Company Processor project",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",             
+    "dev": "nodemon server.js",            
+    "download-pdfs": "node models/download_pdfs_node.js",
+    "extract-data": "node models/extract_data.js",
+    "import-companies": "node models/import_companies.js",
+    "etl": "npm run download-pdfs && npm run extract-data && npm run import-companies"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.8.4",
-    "mongodb": "^6.15.0",
-    "mongoose": "^8.13.2",
-    "pdf-parse": "^1.1.1"
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.6.0",
+    "pdf-parse": "^1.1.1",
+    "axios": "^1.6.0"
   },
-  "description": ""
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
