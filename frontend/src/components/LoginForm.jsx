@@ -1,58 +1,71 @@
 import { useState } from 'react';
+import RegisterModal from './RegisterModal';
 
 function LoginForm({ onLogin }) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const [message, setMessage] = useState(null);
+  const [showRegister, setShowRegister] = useState(false);
 
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-
+  const handleLogin = async () => {
     try {
-      const response = await fetch('http://localhost:5000/api/auth/login', {
+      const response = await fetch('http://localhost:3001/api/auth/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password })
       });
 
-      const data = await response.json();
-
-      if (response.ok) {
-        setMessage('✅ Login successful!');
-        localStorage.setItem('token', data.token);
-        onLogin(); // Llama a la función para cambiar la vista
-      } else {
-        setMessage(`❌ ${data.error}`);
+      if (!response.ok) {
+        const data = await response.json();
+        alert(data.message || 'Login failed');
+        return;
       }
+
+      const data = await response.json();
+      localStorage.setItem('token', data.token);
+      onLogin();
     } catch (err) {
-      console.error(err);
-      setMessage('❌ Server error');
+      alert('Error interno del servidor');
     }
   };
 
   return (
-    <div style={{ maxWidth: '400px', margin: '2rem auto', padding: '2rem', border: '1px solid #ccc', borderRadius: '8px' }}>
-      <h2>Login</h2>
-      {message && <p>{message}</p>}
-      <form onSubmit={handleSubmit}>
+    <div style={{
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      height: '100vh',
+      flexDirection: 'column'
+    }}>
+      <div style={{
+        border: '1px solid #ccc',
+        padding: '2rem',
+        borderRadius: '10px',
+        boxShadow: '0px 0px 10px rgba(0,0,0,0.1)'
+      }}>
+        <h2 style={{ textAlign: 'center' }}>Login</h2>
         <input
           type="email"
           placeholder="Email"
-          required
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          style={{ width: '100%', marginBottom: '1rem' }}
+          style={{ display: 'block', width: '100%', marginBottom: '1rem' }}
         />
         <input
           type="password"
           placeholder="Password"
-          required
           value={password}
           onChange={(e) => setPassword(e.target.value)}
-          style={{ width: '100%', marginBottom: '1rem' }}
+          style={{ display: 'block', width: '100%', marginBottom: '1rem' }}
         />
-        <button type="submit" style={{ width: '100%' }}>Login</button>
-      </form>
+        <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+          <button onClick={handleLogin}>Login</button>
+          <button onClick={() => setShowRegister(true)}>Register</button>
+        </div>
+      </div>
+
+      {showRegister && (
+        <RegisterModal onClose={() => setShowRegister(false)} />
+      )}
     </div>
   );
 }
