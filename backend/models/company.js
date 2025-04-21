@@ -9,6 +9,9 @@ const empresaSchema = new mongoose.Schema({
   objeto: String,
   socios: [String],
   rut: { type: String, unique: true, required: true }
-}, { timestamps: true });
+}, {
+  timestamps: true,
+  collection: 'companies' // fuerza el uso de la colección companies
+});
 
 module.exports = mongoose.model('Company', empresaSchema);

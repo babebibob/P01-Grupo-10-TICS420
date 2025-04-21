@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import EmpresasList from './EmpresasList'; // Component that displays the list of companies
+import EmpresasList from './components/CompaniesList'; // Component that displays the list of companies
 import LoginForm from './components/LoginForm'; // New login component
 
 function App() {
