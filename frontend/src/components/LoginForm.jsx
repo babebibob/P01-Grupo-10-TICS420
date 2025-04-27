@@ -5,6 +5,7 @@ function LoginForm({ onLogin }) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [showRegister, setShowRegister] = useState(false);
+  const [loading, setLoading] = useState(false);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -13,6 +14,8 @@ function LoginForm({ onLogin }) {
     if (password.length < 6) return alert('La contraseña debe tener al menos 6 caracteres');
 
     try {
+      setLoading(true);
+
       const res = await fetch('http://localhost:3001/api/auth/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -21,16 +24,58 @@ function LoginForm({ onLogin }) {
 
       const data = await res.json();
 
-      if (res.ok) {
-        localStorage.setItem('token', data.token);
-        onLogin();
-      } else {
-        alert(data.error || 'Error al iniciar sesión');
-      }
+      // Simular carga de al menos 3 segundos
+      setTimeout(() => {
+        setLoading(false);
+
+        if (res.ok) {
+          localStorage.setItem('token', data.token);
+          onLogin();
+        } else {
+          alert(data.error || 'Error al iniciar sesión');
+        }
+      }, 3000);
+
     } catch (error) {
+      setLoading(false);
       alert('Error al conectar con el servidor');
     }
   };
+
+  if (loading) {
+    return (
+      <div style={{
+        width: '100vw',
+        height: '100vh',
+        display: 'flex',
+        flexDirection: 'column', // ✅ Para que spinner y texto estén uno encima del otro
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#f9f9f9',
+      }}>
+        <div style={{
+          border: '8px solid #f3f3f3',   // Borde gris
+          borderTop: '8px solid #3498db', // Borde azul animado
+          borderRadius: '50%',
+          width: '60px',
+          height: '60px',
+          animation: 'spin 1s linear infinite',
+          marginBottom: '1rem'
+        }} />
+        <p style={{ fontSize: '1.2rem', color: '#555' }}>Iniciando sesión...</p>
+
+        {/* Animación CSS */}
+        <style>
+          {`
+            @keyframes spin {
+              0% { transform: rotate(0deg); }
+              100% { transform: rotate(360deg); }
+            }
+          `}
+        </style>
+      </div>
+    );
+  }
 
   return (
     <div style={{
